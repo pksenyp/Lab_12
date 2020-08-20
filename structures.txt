@@ -1,0 +1,7 @@
+6
+Moscow        10    10:10
+Rostov        1     20:10
+Krasnodar     9     15:45
+Vologda       15    23:55
+Vladivostok   7     17:15
+Volgograd     11    18:00
